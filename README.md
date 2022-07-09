@@ -1,4 +1,4 @@
-# TEJAS2020
+WhatsApp clone
 There is no better way to understand a framework, library and its features, than by making projects." You will be making the following features :
 
 WhatsApp Web UI
